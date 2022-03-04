@@ -29,7 +29,7 @@ Some things I'm involved with:
 <tr>
 <td><img src="ontotools-01.png?raw=1" width=300 alt="The Ontology Lookup Service (OLS), Ontology Xref Service (OxO), and ZOOMA"/></td>
 <td>
-<p>Ontologies are hierarchical dictionaries which are widely used in the biology and biomedical domains to enable the machine-tractable representation of complex biological knowledge.</p>
+<p>Ontologies are hierarchical dictionaries which are widely used in the biology and biomedical domains to enable the FAIR, machine-tractable representation of complex biological knowledge.</p>
   <p>I work on three open-source tools at EMBL-EBI for working with ontologies: the <b><i><a href="https://www.ebi.ac.uk/ols">Ontology Lookup Service (OLS)</a></i></b>, which indexes 250+ biology-related ontologies for searching and browsing; the <b><i><a href="https://www.ebi.ac.uk/spot/oxo">Ontology Xref Service (OxO)</a></i></b>, which maps terms from one ontology to another; and <b><i><a href="https://www.ebi.ac.uk/spot/zooma">ZOOMA</a></i></b>, which provides optimal mappings for strings to ontology terms.</p>
 </p>
 </td>
