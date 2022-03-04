@@ -1,6 +1,6 @@
-<b>James Alastair McLaughlin, PhD</b>
+James Alastair McLaughlin, PhD
 
-Interdisciplinary researcher: computers x biology 💻 🦠
+Interdisciplinary researcher: computers x biology 💻 🧬
 
 Passionate about <b><i>findable, accessible, interoperable, and reproducible (FAIR)</i></b> scientific knowledge.
 
