@@ -1,4 +1,4 @@
-James Alastair McLaughlin, PhD
+James Alastair McLaughlin, PhD (he/him)
 
 Interdisciplinary researcher: computers x biology 💻 🧬
 
